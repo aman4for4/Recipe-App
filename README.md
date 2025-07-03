@@ -4,7 +4,7 @@ Here are few glimpses:
 
 
 <img src="Screenshot 2025-04-10 112357.png" width="600" height="400">
-<img src="Screenshot 2025-04-10 112055.png" width="600" height="400">
+<img src="Screenshot 2025-04-10 112136.png" width="600" height="400">
 
 
 ### *Built using HTML, CSS, JavaScript*
